@@ -24,7 +24,7 @@
 [flutter]: https://flutter.dev/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/mercanbirer
 
 <br />
 <br />
