@@ -10,7 +10,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mercanbirer/
-[gmail]: mercanbirer42@gmail.com
+[gmail]: mailto:mercanbirer42@gmail.com
 <br />
 ### 🔧 Languages and Tools:
 
