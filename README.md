@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 ### 📩 Connect with me:
 
@@ -16,5 +16,6 @@
 [medium]: https://medium.com/@mercanbirer
 <br />
 <br />
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mercanbirer&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+ <img height="180em" align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mercanbirer&show_icons=true&locale=en" alt="mercanbirer" />
+ <img height="180em" align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mercanbirer&" alt="mercanbirer" />
 
